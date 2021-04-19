@@ -1,5 +1,1 @@
 ### Hi there 👋
-
-<a href="https://github.com/yuuki008/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yuuki008&count_private=true&show_icons=true" />
-</a>
